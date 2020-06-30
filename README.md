@@ -1,1 +1,1 @@
-# Analyze_ab_test_results_notebook
+This notebook predicts two web page designs to see if the new page is significantly better.
